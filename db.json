@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "nombre": "Manuel",
+      "comentarios": "Muy interesante",
+      "estrellas": "4",
+      "id": 1
+    },
+    {
+      "nombre": "Miguel",
+      "comentarios": "Me ha encantado. El guía era muy ameno",
+      "estrellas": "5",
+      "id": 2
+    }
+  ]
+}
