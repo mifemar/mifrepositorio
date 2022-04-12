@@ -1,28 +1,10 @@
 {
   "posts": [
     {
-      "nombre": "Manuel",
-      "comentarios": "Muy interesante",
-      "estrellas": "4",
+      "nombre": "Miguel Fernández",
+      "comentarios": "El servidor de opiniones está aún inactivo. Disculpe el inconveniente. ",
+      "estrellas": "1",
       "id": 1
-    },
-    {
-      "nombre": "Miguel",
-      "comentarios": "Me ha encantado. El guía era muy ameno",
-      "estrellas": "5",
-      "id": 2
-    },
-    {
-      "nombre": "Miguel ito",
-      "comentarios": "Me ha encantado. El guía era muy ameno",
-      "estrellas": "4",
-      "id": 3
-    },
-    {
-      "nombre": "Fer",
-      "comentarios": "Poca cosa",
-      "estrellas": "2",
-      "id": 4
     }
   ]
 }
